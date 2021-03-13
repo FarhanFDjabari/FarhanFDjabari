@@ -1,4 +1,4 @@
-### Farhan Fadhilah Djabari 👋
+### Hi there! 👋
 
 <!--
 **FarhanFDjabari/FarhanFDjabari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
