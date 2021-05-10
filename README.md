@@ -50,8 +50,8 @@ A **Web and Android Development** ***Enthusiast*** 💻📱.
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-20bd67?style=flat-square&logo=android-studio&logoColor=ffffff)
 
-<img src="https://github-readme-stats.vercel.app/api?username=FarhanFDjabari&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Farhan's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FarhanFDjabari&count_private=true&theme=radical" alt="FarhanFD" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanFDjabari&count_private=true&theme=radical" alt="Farhan's most used language" />
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=FarhanFDjabari&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Farhan's GitHub Stats">
+<img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com?user=FarhanFDjabari&count_private=true&theme=radical" alt="FarhanFD" />
+<img align="center" width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanFDjabari&count_private=true&theme=radical" alt="Farhan's most used language" />
 
 ----
