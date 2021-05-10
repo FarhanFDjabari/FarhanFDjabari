@@ -14,20 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 title="greeting"> Hey 👋, I'm Farhan!</h3>
-
-<a href="https://www.linkedin.com/in/farhanfdjabari">
-  <img align="left" alt="Farhan's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/farhanfdjabari/">
-  <img align="left" alt="Farhan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
-<br />
+## Hey 👋, I'm Farhan Fadhilah Djabari!
 
 A **Web and Android Development** ***Enthusiast*** 💻📱.
-
 
 **About Me!**
 
@@ -36,6 +25,10 @@ A **Web and Android Development** ***Enthusiast*** 💻📱.
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
 
+**Connect with Me**
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/farhanfdjabari)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/farhanfdjabari/)
 
 ### Languages and Tools 🛠 
 
@@ -50,7 +43,6 @@ A **Web and Android Development** ***Enthusiast*** 💻📱.
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
