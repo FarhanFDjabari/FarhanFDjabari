@@ -22,7 +22,7 @@ A **Web and Android Development** ***Enthusiast*** 💻📱.
 
 - 👨🏽‍💻 I’m currently a Information Technology (IT) Undergrad student at Brawijaya University, Indonesia
 - 🌱 I’m currently exploring Flutter, Native Android and Reactjs. 
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in front end web and mobile development.
 - 💬 Ask me about anything, I love to answer!
 
 **Connect with Me**
