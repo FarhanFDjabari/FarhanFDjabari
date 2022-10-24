@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey 👋, I'm Farhan Fadhilah Djabari!
 
-A **Web and Android Development** ***Enthusiast*** 💻📱.
+A **Mobile App Development** ***Enthusiast*** 💻📱.
 
 **About Me!**
 
