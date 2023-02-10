@@ -20,7 +20,7 @@ A **Mobile App Development** ***Enthusiast*** 💻📱.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Information Technology (IT) Undergrad student at Brawijaya University, Indonesia
+- 👨🏽‍💻 I’m a Information Technology (IT) Fresh Graduate.
 - 🌱 I’m currently exploring Flutter and Kotlin. 
 - 🤔 My interest lies in mobile app development.
 - 💬 Ask me about anything, I love to answer!
