@@ -14,7 +14,12 @@ jobs:
       - name: Checkout github-readme-stats source
         uses: actions/checkout@v4
         with:
-          repository: anuraghazra/github-readme-stats
+          repository: FarhanFDjabari/github-readme-stats
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
       - name: Install Vercel CLI
         run: npm install -g vercel@latest
